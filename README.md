@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arun-iitg025](https://github.com/arun-iitg025)
 
-- 💬 Ask me about **react, solidity, web3.js, ether.js, truffle, hardhat.**
+- 💬 Ask me about **Blockchain, react, solidity, web3.js, ether.js, truffle, hardhat.**
 
 - 📫 How to reach me **arunsardar025@gmail.com**
 
