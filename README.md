@@ -1,4 +1,4 @@
-![logo](https://github.com/arun-iitg025/arun-iitg025/blob/main/Purple%20Modern%20Digital%20Marketing%20Banner%20(1).mp4)
+![logo](https://github.com/arun-iitg025/arun-iitg025/blob/main/Purple%20Modern%20Digital%20Marketing%20Banner.gif?raw=true)
 
 <h1 align="center">Hi 👋, I'm Arun Sardar</h1>
 <h3 align="center">A passionate software developer from India</h3>
