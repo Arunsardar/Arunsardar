@@ -1,3 +1,4 @@
+![logo](https://github.com/arun-iitg025/arun-iitg025/blob/main/Purple%20Modern%20Digital%20Marketing%20Banner%20(1).mp4)
 
 <h1 align="center">Hi 👋, I'm Arun Sardar</h1>
 <h3 align="center">A passionate software developer from India</h3>
@@ -7,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/arunsar41671241" target="blank"><img src="https://img.shields.io/twitter/follow/arunsar41671241?logo=twitter&style=for-the-badge" alt="arunsar41671241" /></a> </p>
 
-- 🔭 I’m currently working internship on **Devtown as a fullstack development.**
+- 🔭 I’m currently doing internship on **Devtown as a fullstack development.**
 
-- 🌱 I’m currently learning **blockchain**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arun-iitg025](https://github.com/arun-iitg025)
 
