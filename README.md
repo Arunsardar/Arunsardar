@@ -1,4 +1,4 @@
-![logo](https://github.com/arun-iitg025/arun-iitg025/blob/main/2.png?raw=true)
+![logo](https://raw.githubusercontent.com/arun-iitg025/arun-iitg025/318e08beef18d561468bfc3da8552d137734b8de/1.png)
 
 <h1 align="center">Hi 👋, I'm Arun Sardar</h1>
 <h3 align="center">A passionate software developer from India</h3>
