@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/arunsar41671241" target="blank"><img src="https://img.shields.io/twitter/follow/arunsar41671241?logo=twitter&style=for-the-badge" alt="arunsar41671241" /></a> </p>
 
-- 🔭 I’m currently doing internship on **Devtown as a fullstack developer.**
+- 🔭 I’m currently doing internship on **NoQs Digital as a DevOps Engineer.**
 
 - 🌱 I’m currently learning **Blockchain**
 
